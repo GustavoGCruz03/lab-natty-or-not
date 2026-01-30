@@ -11,7 +11,7 @@ Ferrramenta Craiyon.
 Utilizando prompts simples na ferramenta Crayion. Por exemplo: "Cristiano Ronaldo jogando nos Lakers", "LeBron James tenista" ou "Usain Bolt jogando no Flamengo".
 
 ## 🚀 Resultados
-Adicionados na pasta 'resultados' do repositório.
+Adicionados no repositório.
 
 
 
