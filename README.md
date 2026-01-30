@@ -8,7 +8,7 @@ Geração de imagens lúdica, porém realista, sobre atletas ícones trocando de
 Ferrramenta Craiyon.
 
 ## 🧐 Processo de Criação
-Utilizando prompts simples na ferramenta Crayion. Por exemplo: "Cristiano Ronaldo jogando nos Lakers" ou "LeBron James tenista"
+Utilizando prompts simples na ferramenta Crayion. Por exemplo: "Cristiano Ronaldo jogando nos Lakers", "LeBron James tenista" ou "Usain Bolt jogando no Flamengo".
 
 ## 🚀 Resultados
 Adicionados na pasta 'resultados' do repositório.
